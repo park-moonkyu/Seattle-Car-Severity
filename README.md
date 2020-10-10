@@ -4,7 +4,7 @@ If you want to see metadata or get more detailed information on the data set, pl
 <https://s3.us.cloud-object-storage.appdomain.cloud/cf-courses-data/CognitiveClass/DP0701EN/version-2/Metadata.pdf>
  
 
- ## Table of content\n",
+ ## Table of content",
 1. [Introduction]
 2. [Business Problem]
 3. [Data]
