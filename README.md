@@ -6,7 +6,7 @@ If you want to see metadata or get more detailed information on the data set, pl
 ## Introduction
 The total number of vehicles worldwide is increasing every year.</br>
 It mean that Car accidents can occur all the time all the way. </br>
-However there are some conditions were the probabilities of have an accident arise due multiple variables. </br></br>
+However there are some conditions were the probabilities of have an accident arise due multiple variables. 
 This report has as purpose develop a model for Seattle government to predict the probabilities of have a car accident and severity, based on different conditions as weather or road conditions. </br></br>
 The information was provided by Seattle Police Department form 2004 to 2020. </br>
 
@@ -20,3 +20,11 @@ __2. Reduce costs in damage infrastructure</br>__</br>
 __3. Reduce cost from police and paramedics to attend each accident__</br></br></br>
 
 # Data
+It comes from Seattle Police Department and recorded by Traffic Records and include Collisions at intersection or mid-block of a segment. The period information is from 2004 to May 2020.</br></br>
+The information is organized in a CSV File with 37 attributes and originally 194673 rows. Information is labeled and unbalanced. Additionally a document with the description of each column were given. </br></br> 
+Due our information is labeled we know the result for each record, we have select the column __SEVERITYCODE__ as Dependent varible. The possible values are:</br>
+</br>
+__1 -- Property Damage Only Collision__</br></br>
+__2 -- Injury Collision__</br></br></br>
+
+The information is unbalanced by the difference in samples for each accident type. In our case there are only two types of accidents. Look at the picture below:</br>
