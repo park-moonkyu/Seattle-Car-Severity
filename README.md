@@ -25,4 +25,8 @@ Due our information is labeled we know the result for each record, we have selec
 __1 -- Property Damage Only Collision__</br></br>
 __2 -- Injury Collision__</br>
 The information is unbalanced by the difference in samples for each accident type. In our case there are only two types of accidents. Look at the picture below:</br>
-<img width="303" alt="1" src="https://user-images.githubusercontent.com/41941627/95647741-bfc7fd80-0b0c-11eb-9dd7-c8ba765eb74d.png"></br>
+<img width="303" alt="1" src="https://user-images.githubusercontent.com/41941627/95647741-bfc7fd80-0b0c-11eb-9dd7-c8ba765eb74d.png"></br></br>
+In it's original form, this data is not fit for analysis. For one, there are many columns that we will not use for this model. Also most of the features are of type object, when they should be numerical type. </br> We must use label encoding to covert the features to our desired data type.</br>
+
+
+
