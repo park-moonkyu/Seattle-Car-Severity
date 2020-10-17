@@ -1,3 +1,5 @@
+# <https://medium.com/@moonkyu95/accident-severity-data-analysis-9b04549d10aa>
+
 #  Car accident severity - Capstone Project 
 ![zz](https://user-images.githubusercontent.com/41941627/95646403-0fa1c700-0b03-11eb-94d1-479ff49b8b76.jpg) </br></br>
 If you want to see metadata or get more detailed information on the data set, please refer to the link below.</br>
